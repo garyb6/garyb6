@@ -2,7 +2,7 @@
 
 ### I am a **Junior Software Developer** looking for my first role in the tech industry
 
-* 🎓 Recently graduate of the CodeClan Professional Software Development course in Edinburgh
+* 🎓 Recent graduate of the CodeClan Professional Software Development course in Edinburgh
 
 * 🧩 Currently expanding my knowledge of all things code one piece at a time
 
@@ -21,7 +21,7 @@
 
 ### Languages and Tools used in my pinned projects found below:
 <br>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" style=padding:5px />
+<img alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" style=padding:5px />
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" style=padding:5px; />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style=padding:5px; />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style=padding:5px; />
@@ -35,18 +35,5 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" style=padding:5px; />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" style=padding:5px; />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style=padding:5px; />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style=padding:5px; />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" style=padding:5px; />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" style=padding:5px; />
-
-
-
-
-
-
-
-
-
-
-[linkedIn]: https://www.linkedin.com/in/gary-bennett-041605230/
-
-[email]: <mailto:gary.bennett6@outlook.com>
