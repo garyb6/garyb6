@@ -1,14 +1,14 @@
 # Hello there, I'm Gary 👋
 
-### I am a **Junior Software Developer** looking for my first role in the tech industry
+### I am a **Software Engineer** always looking to expand my understanding of the tech industry
 
-* 🎓 Recent graduate of the CodeClan Professional Software Development course in Edinburgh
+* 🎓 Graduate of the CodeClan Professional Software Development course in Edinburgh 2022
 
-* 🧩 Currently expanding my knowledge of all things code one piece at a time
+* 🧩 Expanding my knowledge of all things code one commit at a time
 
 * 🔍 Always on the look out for anything I can do to improve my skills
 
-* 🖤 🤍 Fun fact: I've been a Newcastle United season ticket holder for the last 17 years
+* 🖤 🤍 Fun fact: I've been a Newcastle United season ticket holder for the last 18 years
 
 ### Connect with me:
 <br>
